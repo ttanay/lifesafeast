@@ -10,6 +10,8 @@ body{
 .pd{
 	padding-top: 7.6%;
 	padding-right: 6%;
+	background-color: inherit;
+	color: inherit;
 }
 .social{
 	padding-right: 1%;
