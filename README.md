@@ -1,2 +1,3 @@
 # Life's A Feast
-Food Blog 
+A Food Website created for a friend.
+Recipes sourced by Sainath Sridhar.
