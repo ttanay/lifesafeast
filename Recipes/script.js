@@ -1,5 +1,5 @@
 $('.grid').masonry({
   // options
   itemSelector: '.grid-item',
-  columnWidth: 400
+  columnWidth: 200
 });
